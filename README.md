@@ -1,4 +1,4 @@
-# Project Title  
+# CO2 Cars
 
 ## Introduction
 This document is intended to provide a comprehensive overview of our project's developments and serve as a reference tool for new members joining our team.
@@ -10,11 +10,11 @@ This report serves two primary functions:
 
 ## About the Project
 
-* Project Title:  
-* Project Purpose:  
-* Brief Description:  
-* Contributors Involved: (People who worked on the report)  
-* Git Repo Link:
+* Project Title: CO2 Cars
+* Project Purpose: Teach members techincal skills includign CAD, CFD Simulation, Applied Math, and Mechanical Design
+* Brief Description: Design, build, and race cars which run on CO2 Engines
+* Contributors Involved: Corban Smith
+* Git Repo Link: https://github.com/TBC-Projects/CO2_Cars
 
 ## Accomplishments
 
@@ -53,11 +53,7 @@ This report serves two primary functions:
   * CoE \- College of Engineering  
   * ECE \- Electrical and Computer Engineering  
 * Team Roles (People who worked on the project)  
-  * John Doe  
-    * Lead developer  
-  * Jane Doe  
-    * Lead tester  
-  * Kevin Sandwich  
-    * Circuit Builder  
-  * Goblin Sanchez  
-    * In Training
+  * Corban Smith
+    * Lead   
+  * Andrew Winston  
+    * Lead tester
