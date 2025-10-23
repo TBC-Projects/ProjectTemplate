@@ -10,10 +10,11 @@ This report serves two primary functions:
 
 ## About the Project
 
-* Project Title:  
-* Project Purpose:  
-* Brief Description:  
-* Contributors Involved: (People who worked on the report)  
+* Project Title:  CO2 Cars
+* Project Purpose:  Help students develop their CAD design, testing, analysis, and manufacturing skills.
+* Brief Description:  Students will use CAD design, CFD analysis, 3D printing, and machining skills by building and racing CO2 propelled cars
+* Contributors Involved:
+* Leads: Zi Chuen, Corban Smith, Andrew Winston 
 * Git Repo Link:
 
 ## Accomplishments
@@ -37,13 +38,11 @@ This report serves two primary functions:
 ## Relevant Resources \[\*\*IMPORTANT\]**
 
 * Key files, photos, figures, algorithms  
-* Software/platforms used, and their purpose  
-  * Examples:  
-  * Autodesk Fusion: 3D Modeling  
-  * Dremel DigiLab: Slicing and 3d Printing  
-  * Arduino IDE: Microcontroller Programming  
-* For software projects, include languages used  
-  * E.g. MATLAB, C, Java, SystemVerilog, ArduinoC  
+* Software/platforms used, and their purpose 
+  * OnShape: 3D Modeling  
+  * Prusa Slicer: Slicing and 3d Printing
+* Wobbler Enginer OnShape File:
+  * https://cad.onshape.com/documents/f448517b7227d1dbd29f8337/w/68728806e4b938b0e0755d07/e/bba119175bedc9beed178199?renderMode=0&uiState=68db39bc20d4ffdec4d41556
 
 ## Other Information
 
@@ -53,11 +52,11 @@ This report serves two primary functions:
   * CoE \- College of Engineering  
   * ECE \- Electrical and Computer Engineering  
 * Team Roles (People who worked on the project)  
-  * John Doe  
-    * Lead developer  
-  * Jane Doe  
-    * Lead tester  
-  * Kevin Sandwich  
-    * Circuit Builder  
-  * Goblin Sanchez  
-    * In Training
+  * Zi Chuen 
+    * Project Lead  
+  * Corban Smith 
+    * Project Lead  
+  * Andrew Winston  
+    * Project Lead  
+  * Link to teams and team members:
+    * https://docs.google.com/spreadsheets/d/1DX3-sYoIwbCwbBujF2-tN6yfoZ7Md4-1A3y7BFrDVjQ/edit?usp=sharing
