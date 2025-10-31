@@ -20,4 +20,4 @@
 - Communicate progress
 
 **Changes to the Plan:**
-- To change the plan, simply propose a change in the Discord group chat 
+- To change the plan, simply propose a change in the Discord group chat  
