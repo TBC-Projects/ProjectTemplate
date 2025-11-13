@@ -2,6 +2,6 @@ Control Team Roles:
 
 Communication: Rockey
 Participation: Neeti
-Product: Allen
+Product: Allen, Arturo
 Engagement: Advaith
 Documentation: Rithvi
