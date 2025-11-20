@@ -1,4 +1,4 @@
-# Project Title  
+# Facial Recognition Attendance Checker
 
 ## Introduction
 This document is intended to provide a comprehensive overview of our project's developments and serve as a reference tool for new members joining our team.
@@ -10,11 +10,10 @@ This report serves two primary functions:
 
 ## About the Project
 
-* Project Title:  
-* Project Purpose:  
-* Brief Description:  
-* Contributors Involved: (People who worked on the report)  
-* Git Repo Link:
+* Project Title:  Facial Recognition Attendance Checker
+* Project Purpose: Design and build an embedded system that uses a ML classification algorithm to do real-time image processing. 
+* Brief Description:  An embedded system that scans faces in real-time, uses classification to match the face to a person, and marks a person as present. Incorporates user feedback via lights and audio.
+* Contributors Involved: Sam Mansouri, Elias Assalif \(Product Focal\), \[remaining documentation focals add your name here as you make edits!\]
 
 ## Accomplishments
 
@@ -38,26 +37,31 @@ This report serves two primary functions:
 
 * Key files, photos, figures, algorithms  
 * Software/platforms used, and their purpose  
-  * Examples:  
-  * Autodesk Fusion: 3D Modeling  
-  * Dremel DigiLab: Slicing and 3d Printing  
-  * Arduino IDE: Microcontroller Programming  
-* For software projects, include languages used  
-  * E.g. MATLAB, C, Java, SystemVerilog, ArduinoC  
+  * Numpy:
+  * Pandas:
+  * Jetson Orin Nano:  
+  * Jetpack 9
+* Languages used:  
+  * Python
+  * C
+  * Bash  
 
 ## Other Information
 
-* Define Abbreviations  
-  * Examples:  
-  * TBC \- The Boring Club  
-  * CoE \- College of Engineering  
-  * ECE \- Electrical and Computer Engineering  
-* Team Roles (People who worked on the project)  
-  * John Doe  
-    * Lead developer  
-  * Jane Doe  
-    * Lead tester  
-  * Kevin Sandwich  
-    * Circuit Builder  
-  * Goblin Sanchez  
-    * In Training
+* Abbreviations:  
+  * ML \- Machine Learning
+* Team Roles (People who worked on the project): See ``/doc/HardwareRoles.md`` and ``/doc/SoftwareRoles.md`` for hardware and software subteam members respectively for the MLClassifier project.  
+  * Hudson Wong  
+    * Software Lead  
+  * Adelin Ma  
+    * Software Lead  
+  * Akshay Ashok  
+    * Machine Learning Lead
+  * Sam Mansouri
+    * Hardware Lead
+  * Cliff Pham  
+    * Lead Support
+  * Sean Bubernak  
+    * Lead Support
+  * Arjun Manu
+    * Lead Support
