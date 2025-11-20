@@ -13,7 +13,7 @@ This report serves two primary functions:
 * Project Title:  Facial Recognition Attendance Checker
 * Project Purpose: Design and build an embedded system that uses a ML classification algorithm to do real-time image processing. 
 * Brief Description:  An embedded system that scans faces in real-time, uses classification to match the face to a person, and marks a person as present. Incorporates user feedback via lights and audio.
-* Contributors Involved: Sam Mansouri, \[documentation focals add your name here as you make edits!\]
+* Contributors Involved: Sam Mansouri, Elias Assalif \(Product Focal\), \[remaining documentation focals add your name here as you make edits!\]
 
 ## Accomplishments
 
@@ -50,7 +50,7 @@ This report serves two primary functions:
 
 * Abbreviations:  
   * ML \- Machine Learning
-* Team Roles (People who worked on the project): See ``/doc/HardwareRoles.md`` and ``/doc/SoftwareRoles.md``  
+* Team Roles (People who worked on the project): See ``/doc/HardwareRoles.md`` and ``/doc/SoftwareRoles.md`` for hardware and software subteam members respectively for the MLClassifier project.  
   * Hudson Wong  
     * Software Lead  
   * Adelin Ma  
